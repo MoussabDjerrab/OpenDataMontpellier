@@ -5,7 +5,7 @@ OpenDataMontpellier
 
 * DESCRIPTION : Depot de données de l'open data de la Ville de Montpellier
 
-* COUVERTUTE GÉOGRAPHIQUE : Ville de Montpellier
+* COUVERTURE GÉOGRAPHIQUE : Ville de Montpellier
 
 * LANGUE : français
 
